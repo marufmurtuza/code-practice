@@ -1,6 +1,3 @@
-// Implementation of a recursive algorithm to find factorial of n.   
-
-
 #include <stdio.h>
 
 int factorial(int n){
